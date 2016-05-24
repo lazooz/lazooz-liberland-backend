@@ -1,2 +1,4 @@
-# lazooz-liberland-backend
-LaZooz liberland backend 
+lbm-server
+==========
+
+Lazooz Location Based Mining Server 

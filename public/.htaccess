@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond $1 !^(internal_insert\.php|iam\.html|index\.php|index\.bad\.php|public|phpmyadmin|assets|downloads|eimages|robots\.txt)
+RewriteRule ^(.*)$ /index.php?/$1 [L]

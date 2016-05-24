@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+/*
+green: #16848a
+*/
+
+
+#bg { position: fixed; top: 0; left: 0; min-width: 100%; min-height: 100%;}
+
+html { 
+  background: url(/assets/images/main_background_mobile.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color:#16848a;
+}
+
+select{padding: 10px;font-size: 20px;-webkit-border-radius: 5px;-moz-border-radius: 5px;width:90%;color:#16848a;}
+
+textarea.report-issue-desc{padding: 20px;font-size: 20px;-webkit-border-radius: 5px;-moz-border-radius: 5px;width:80%;height: 200px;-webkit-border-radius: 5px;-moz-border-radius: 5px;color:#16848a;}
+button.report-issue-submit-button{width:90%;margin: 0 auto;font-size: 20px;padding:5px;background-color: #16848a;color: white;-webkit-border-radius: 5px;-moz-border-radius: 5px; }
+
+
+.mobile-wrapper{color:##16848a}
+.mobile-headline{font-size: 30px;text-align: center;margin-top: 50px;}
+.mobile-report-issue-form-cont{width: 90%;margin: 0 auto;text-align: center;}
+.mobile_spacer{margin-top: 20px;}
+.mobile-report-issue-submit-result{font-size: 30px;margin-top: 50px;}
+.mobile-report-issue-submit-result-another{margin-top: 50px;}

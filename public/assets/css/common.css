@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+
+/*
+green: #16848a
+
+*/
+
+.admin_menu_buttons{width: 200px;}
+.admin_client_texts{width: 700px;height: 200px;}
+table.admin-show-client-issues-table{width: 90%;margin:0 auto;border:1px solid; border-collapse: collapse;}
+td.admin-show-client-issues-td{border:1px solid;padding: 5px;}
+
+
