@@ -1,4 +1,4 @@
-lbm-server
-==========
+lazooz-liberland lbm-server
+============================
 
-Lazooz Location Based Mining Server 
+Lazooz Location Based Applicaiton Server 
